@@ -1,0 +1,10 @@
+/secrecy.py
+
+# IDE #
+/.vscode
+
+# Jupiter Notebook #
+.pytest_cache
+__pycache__
+*checkpoint.ipynb
+*.ipynb_checkpoints
