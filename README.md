@@ -1,4 +1,5 @@
 # DeepTrade
+<<<<<<< HEAD
 
 This repository contains an algorithmic trading system built to interact with the Alpaca Trade API. It retrieves trading signals, places market orders.
 
@@ -41,3 +42,6 @@ Trading involves financial risks. Please understand the system thoroughly and do
 
 ## Author
 Adedapo Ayoade
+=======
+DeepTrade is an algorithmic trading system leveraging the power of deep learning to predict market movements and optimise trading strategies.
+>>>>>>> fd3f10bbf78df18abb01da7864b4282d367bc7b7
